@@ -15,6 +15,7 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 - [Blog Posts](#blog-posts)
 - [Blogs](#blogs)
 - [Content Feeds](#content-feeds)
+- [Other Resources](#other-resources)
 
 ## C++
 
