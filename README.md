@@ -89,6 +89,7 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 ## Blogs
 
 - [programmingisterrible.com](https://programmingisterrible.com/about)
+- [blog.royalsloth.eu](https://blog.royalsloth.eu/#)
 - [staffeng.com](https://staffeng.com)
 - [antonz.org](https://antonz.org)
 - [wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
