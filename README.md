@@ -88,10 +88,10 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 
 ## Blogs
 
-- [](https://programmingisterrible.com/about)
-- [](https://staffeng.com)
-- [](https://antonz.org)
-- [](https://wiki.nikitavoloboev.xyz)
+- [https://programmingisterrible.com/about]
+- [https://staffeng.com]
+- [https://antonz.org]
+- [https://wiki.nikitavoloboev.xyz]
 
 ## Content Feeds
 
