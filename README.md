@@ -6,11 +6,11 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 
 ### Table of Contents
 
-- [C++](#c++)
+- [C++](#c)
 - [Version Control](#version-control)
 - [Docker](#docker)
 - [Shell Scripting](#shell-scripting)
-- [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [Algorithms & Data Structures](#algorithms-data-structures)
 - [Programming Conference Talks](#programming-conference-talks)
 - [Blog Posts](#blog-posts)
 - [Blogs](#blogs)
@@ -82,7 +82,7 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 	- [Pup](https://github.com/ericchiang/pup) - HTML Query Tool.
 	- [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html) - Network Package Analyser.
 
-## Algorithms and Data Structures
+## Algorithms & Data Structures
 
 - [Fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 
