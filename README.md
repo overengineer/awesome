@@ -2,7 +2,7 @@
 
 > A hand curated list of resources
 
-This list was initially was written for onboaring new teammates in a C++ project. I will try to keep this cirruculum-like structure.
+This list was initially written for onboaring new teammates in a C++ project. I will try to keep this cirruculum-like structure.
 
 ### Table of Contents
 
@@ -15,6 +15,7 @@ This list was initially was written for onboaring new teammates in a C++ project
 - [Blog Posts](#blog-posts)
 - [Blogs](#blogs)
 - [Content Feeds](#content-feeds)
+- [Other Resources](#other-resources)
 
 ## C++
 
