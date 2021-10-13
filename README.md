@@ -10,7 +10,7 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 - [Version Control](#version-control)
 - [Docker](#docker)
 - [Shell Scripting](#shell-scripting)
-- [Algorithms & Data Structures](#algorithms-data-structures)
+- [Algorithms & Data Structures](#algorithms--data-structures)
 - [Programming Conference Talks](#programming-conference-talks)
 - [Blog Posts](#blog-posts)
 - [Blogs](#blogs)
