@@ -81,15 +81,19 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 ## Blog Posts
 
 - [Introduction to systems thinking](https://lethain.com/systems-thinking/)
+- [Some career advice](https://lethain.com/career-advice/)
 - [Reflections on a decade of coding](https://scattered-thoughts.net/writing/reflections-on-a-decade-of-coding)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
-- [Why hasn't Zoom been legally cloned and beaten, like by Big Tech?](https://www.quora.com/Why-hasnt-Zoom-been-legally-cloned-and-beaten-like-by-Big-Tech/answer/Neil-Hunt?ch=10&share=e1531dff&srid=u14qy)
+- [Why I prefer making useless stuff](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [Why hasn't Zoom been legally cloned and beaten, like by Big Tech?](https://www.quora.com/Why-hasnt-Zoom-been-legally-cloned-and-beaten-like-by-Big-Tech/answer/Neil-Hunt?ch=10&share=e1531dff&srid=u14qy)
+- [Planning & Estimating Large-Scale Software Projects](https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html)
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
 ## Blogs
 
+- [lethain.com](https://lethain.com)
 - [jvns.ca](https://jvns.ca/)
 - [programmingisterrible.com](https://programmingisterrible.com/about)
 - [blog.royalsloth.eu](https://blog.royalsloth.eu/#)
