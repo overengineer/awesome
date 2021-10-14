@@ -21,31 +21,31 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 
 ### Introduction
 
-- [Course](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Video series on C++ basics.
-- [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/README.md) - Summary of new features on C++ Versions.
+- [Course](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Video series on C++ basics
+- [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/README.md) - Summary of new features on C++ Versions
 
 ### Style Guides
 
-- [Style Guide](https://google.github.io/styleguide/cppguide.html) - Google C++ Style Guide.
-- [Coding Standarts](https://isocpp.org/wiki/faq/coding-standards) -  ISO C++ Coding Standarts FAQ.
-- [Project Structure](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) - Guide for project structure.
+- [Style Guide](https://google.github.io/styleguide/cppguide.html) - Google C++ Style Guide
+- [Coding Standarts](https://isocpp.org/wiki/faq/coding-standards) -  ISO C++ Coding Standarts FAQ
+- [Project Structure](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) - Guide for project structure
 
 ### Build System
 
-- [GCC & Make](https://allnetworkportal.info/LearnCoding/cpp/gcc_make.html) - Introduction to GCC and Make.
-- [CMake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) - Official tutorial.
+- [GCC & Make](https://allnetworkportal.info/LearnCoding/cpp/gcc_make.html) - Introduction to GCC and Make
+- [CMake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) - Official tutorial
 
 ### Testing - Benchmarking
 
-- [Google Test](http://google.github.io/googletest/) - Google Test Framework.
-- [Google Benchmark](https://github.com/google/benchmark) - Google Benchmark Framework.
+- [Google Test](http://google.github.io/googletest/) - Google Test Framework
+- [Google Benchmark](https://github.com/google/benchmark) - Google Benchmark Framework
 
 ### Debugging
 
-- [GDB](http://www.gdbtutorial.com) - GNU Debugger.
-- [Address Sanitizer](https://clang.llvm.org/docs/AddressSanitizer.html) - Detect memory errors.
-- [Valgrind](https://www.valgrind.org/docs/manual/quick-start.html#quick-start.intro) - Debugging, leak detection, profiling.
-- [Reverse Engineering Tools](https://www.thegeekstuff.com/2012/03/reverse-engineering-tools/) - Also useful for debugging.
+- [GDB](http://www.gdbtutorial.com) - GNU Debugger
+- [Address Sanitizer](https://clang.llvm.org/docs/AddressSanitizer.html) - Detect memory errors
+- [Valgrind](https://www.valgrind.org/docs/manual/quick-start.html#quick-start.intro) - Debugging, leak detection, profiling
+- [Reverse Engineering Tools](https://www.thegeekstuff.com/2012/03/reverse-engineering-tools/) - Also useful for debugging
 
 ## Version Control
 
@@ -59,14 +59,14 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 
 ## Shell Scripting
 
-- [What is a TTY?](https://youtu.be/SYwbEcNrcjI) - Introductory Youtube Video. 
+- [What is a TTY?](https://youtu.be/SYwbEcNrcjI) - Introductory Youtube Video 
 - [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 - [Frequently Used Commands](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins)
 - [Bash One-liners](https://onceupon.github.io/Bash-Oneliner/)
 - Some Useful Tools
-	- [JQ](https://github.com/stedolan/jq) - JSON Query Tool.
-	- [Pup](https://github.com/ericchiang/pup) - HTML Query Tool.
-	- [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html) - Network Package Analyser.
+	- [JQ](https://github.com/stedolan/jq) - JSON Query Tool
+	- [Pup](https://github.com/ericchiang/pup) - HTML Query Tool
+	- [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html) - Network Package Analyser
 
 ## Algorithms & Data Structures
 
@@ -76,7 +76,7 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 
 ## Programming Conference Talks
 
-- [Youtube Playlist](https://youtube.com/playlist?list=PL_JxiB6wiK9ZzWZzCUB1rixZFhafaAijw) - Mostly about C++, DoD, Software Optimization.
+- [Youtube Playlist](https://youtube.com/playlist?list=PL_JxiB6wiK9ZzWZzCUB1rixZFhafaAijw) - Mostly about C++, DoD, Software Optimization
 
 ## Blog Posts
 
