@@ -84,10 +84,13 @@ This list was initially written for onboaring new teammates in a C++ project. I 
 - [Reflections on a decade of coding](https://scattered-thoughts.net/writing/reflections-on-a-decade-of-coding)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 - [Why hasn't Zoom been legally cloned and beaten, like by Big Tech?](https://www.quora.com/Why-hasnt-Zoom-been-legally-cloned-and-beaten-like-by-Big-Tech/answer/Neil-Hunt?ch=10&share=e1531dff&srid=u14qy)
+- [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
 ## Blogs
 
+- [jvns.ca](https://jvns.ca/)
 - [programmingisterrible.com](https://programmingisterrible.com/about)
 - [blog.royalsloth.eu](https://blog.royalsloth.eu/#)
 - [staffeng.com](https://staffeng.com)
