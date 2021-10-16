@@ -1,6 +1,6 @@
 # Miscellenous One-Liners & Code Snippets
 
-# Shell
+## Shell
 
 ### List Intentionally Installed Packages 
 ```shell
