@@ -112,6 +112,7 @@
 ## Other Resources
 
 - [Free Courses](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course)
+- [Code Snippets](snippets.md)
 
 ## License
 
