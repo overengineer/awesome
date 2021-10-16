@@ -21,6 +21,8 @@
 
 - [Course](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Video series on C++ basics
 - [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/README.md) - Summary of new features on C++ Versions
+- [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
+- 
 
 ### Style Guides
 
@@ -70,6 +72,7 @@
 ## Algorithms & Data Structures
 
 - [Fundamentals](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
+- [Cheatsheet](https://github.com/gibsjose/cpp-cheat-sheet)
 - [MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [Exercises](https://leetcode.com/problemset/all/)
 
