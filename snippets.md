@@ -1,12 +1,20 @@
 # Miscellenous One-Liners & Code Snippets
 
-## List Intentionally Installed Packages 
+# Shell
+
+### List Intentionally Installed Packages 
 ```shell
 (zcat $(ls -tr /var/log/apt/history.log*.gz); cat /var/log/apt/history.log) 2>/dev/null |   egrep '^(Start-Date:|Commandline:)' |   grep -v aptdaemon |   egrep '^Commandline:' | awk '{print $NF}' | grep -E '^[^-].*' | sort | uniq
 ```
 
 ```shell
 pip3 list --user
+```
+
+### Bash Unofficial Strict Mode
+```shell
+set -euo pipefail
+IFS=$'\n\t'
 ```
 
 ## Python Snippets
