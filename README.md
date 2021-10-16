@@ -59,6 +59,7 @@
 
 - [What is a TTY?](https://youtu.be/SYwbEcNrcjI) - Introductory Youtube Video 
 - [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
+- [Bash Unofficial Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 - [Frequently Used Commands](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins)
 - [Bash One-liners](https://onceupon.github.io/Bash-Oneliner/)
 - Some Useful Tools
