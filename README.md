@@ -102,7 +102,7 @@
 - [staffeng.com](https://staffeng.com)
 - [antonz.org](https://antonz.org)
 - [wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
-
+- [zverok.github.io](https://zverok.github.io/blog/)
 ## Content Feeds
 
 - [Hacker News](https://news.ycombinator.com/)
