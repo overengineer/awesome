@@ -112,7 +112,8 @@
 ## Other Resources
 
 - [Free Courses](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course)
-- [Free Books](https://freecomputerbooks.com/)
+- [Free Computer Books](https://freecomputerbooks.com/)
+- [Illustrated Guides](https://github.com/searchableguy/awesome-illustrated-guides)
 - [Code Snippets](snippets.md)
 
 ## License
