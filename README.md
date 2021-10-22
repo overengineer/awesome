@@ -97,14 +97,14 @@
 
 ## Blogs
 
-- [lethain.com](https://lethain.com)
-- [jvns.ca](https://jvns.ca/)
-- [programmingisterrible.com](https://programmingisterrible.com/about)
-- [blog.royalsloth.eu](https://blog.royalsloth.eu/#)
-- [staffeng.com](https://staffeng.com)
-- [antonz.org](https://antonz.org)
-- [wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
-- [zverok.github.io](https://zverok.github.io/blog/)
+- [lethain.com](https://lethain.com) - Will Larson - Leadership
+- [jvns.ca](https://jvns.ca/) - Julia Evans - Programming Zines, learning, tooling
+- [programmingisterrible.com](https://programmingisterrible.com/about) - Programming, Developer's life
+- [blog.royalsloth.eu](https://blog.royalsloth.eu/#) - Programming, Developer's life
+- [wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz) - Nikita Voloboev - Personal Wiki
+- [antonz.org](https://antonz.org) - Anton Zhiyanov - Python, SQLite
+- [zverok.github.io](https://zverok.github.io/blog/) - Victor Shepelev - Ruby, Python
+
 ## Content Feeds
 
 - [Hacker News](https://news.ycombinator.com/)
