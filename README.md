@@ -83,6 +83,8 @@
 ## Blog Posts
 
 - [Introduction to systems thinking](https://lethain.com/systems-thinking/)
+- [The XY Problem](https://xyproblem.info/)
+- [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
 - [Some career advice](https://lethain.com/career-advice/)
 - [Reflections on a decade of coding](https://scattered-thoughts.net/writing/reflections-on-a-decade-of-coding)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
@@ -115,6 +117,7 @@
 - [Free Computer Books](https://freecomputerbooks.com/)
 - [Illustrated Guides](https://github.com/searchableguy/awesome-illustrated-guides)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Tech Conferences](https://www.alltechconferences.com/)
 - [My Code Snippets](snippets.md)
 - [My Gists](https://gist.github.com/overengineer)
 - [My Github Bookmarks](https://github.com/overengineer?tab=stars)
