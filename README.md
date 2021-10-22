@@ -115,7 +115,9 @@
 - [Free Computer Books](https://freecomputerbooks.com/)
 - [Illustrated Guides](https://github.com/searchableguy/awesome-illustrated-guides)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [Code Snippets](snippets.md)
+- [My Code Snippets](snippets.md)
+- [My Gists](https://gist.github.com/overengineer)
+- [My Github Bookmarks](https://github.com/overengineer?tab=stars)
 
 ## License
 
