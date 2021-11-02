@@ -82,9 +82,10 @@
 
 ## Blog Posts
 
-- [Introduction to systems thinking](https://lethain.com/systems-thinking/)
+- [How to have a productive programming day](https://www.codewithjason.com/productive-programming-day/)
 - [The XY Problem](https://xyproblem.info/)
 - [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
+- [Introduction to systems thinking](https://lethain.com/systems-thinking/)
 - [Some career advice](https://lethain.com/career-advice/)
 - [Reflections on a decade of coding](https://scattered-thoughts.net/writing/reflections-on-a-decade-of-coding)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
