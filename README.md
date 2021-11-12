@@ -76,6 +76,11 @@
 - [MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [Exercises](https://leetcode.com/problemset/all/)
 
+## System Design
+
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- https://www.lecloud.net/tagged/scalability/chrono
+
 ## Programming Conference Talks
 
 - [Youtube Playlist](https://youtube.com/playlist?list=PL_JxiB6wiK9ZzWZzCUB1rixZFhafaAijw) - Mostly about C++, DoD, Software Optimization
@@ -117,7 +122,6 @@
 - [Free Courses](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course)
 - [Free Computer Books](https://freecomputerbooks.com/)
 - [Illustrated Guides](https://github.com/searchableguy/awesome-illustrated-guides)
-- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Tech Conferences](https://www.alltechconferences.com/)
 - [My Code Snippets](snippets.md)
 - [My Gists](https://gist.github.com/overengineer)
