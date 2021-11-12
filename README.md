@@ -22,7 +22,6 @@
 - [Course](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Video series on C++ basics
 - [Modern C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/README.md) - Summary of new features on C++ Versions
 - [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
-- 
 
 ### Style Guides
 
