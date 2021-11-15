@@ -103,6 +103,7 @@
 ## Blogs
 
 - [lethain.com](https://lethain.com) - Will Larson - Leadership
+- [mental-reverb.com](https://mental-reverb.com/blog.php) - Benjamin Richner
 - [jvns.ca](https://jvns.ca/) - Julia Evans - Programming Zines, learning, tooling
 - [programmingisterrible.com](https://programmingisterrible.com/about) - Programming, Developer's life
 - [blog.royalsloth.eu](https://blog.royalsloth.eu/#) - Programming, Developer's life
