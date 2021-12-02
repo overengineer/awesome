@@ -108,7 +108,7 @@
 - [programmingisterrible.com](https://programmingisterrible.com/about) - Programming, Developer's life
 - [blog.royalsloth.eu](https://blog.royalsloth.eu/#) - Programming, Developer's life
 - [wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz) - Nikita Voloboev - Personal Wiki
-- [tech.marksblogg.com](https://tech.marksblogg.com/) - Mark Litwintschik - Optimization, Go, Rust, Python, Backend
+- [tech.marksblogg.com](https://tech.marksblogg.com/) - Mark Litwintschik - Optimization, Go, Rust, Python, Backend, Big Data
 - [antonz.org](https://antonz.org) - Anton Zhiyanov - Python, SQLite
 - [zverok.github.io](https://zverok.github.io/blog/) - Victor Shepelev - Ruby, Python
 
