@@ -78,7 +78,8 @@
 ## System Design
 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- https://www.lecloud.net/tagged/scalability/chrono
+- [Scalability](https://www.lecloud.net/tagged/scalability/chrono)
+- [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
 ## Programming Conference Talks
 
