@@ -148,7 +148,7 @@ def cached_page(url):
 
 ## C++
 
-### String literal as template argument
+### String literal as template argument (C++20)
 
 ```cpp
 template<size_t N>
