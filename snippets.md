@@ -150,7 +150,7 @@ def cached_page(url):
 
 ### String literal as template argument
 
-```{cpp}
+```cpp
 template<size_t N>
 struct string_literal {
   constexpr string_literal (const char (&str)[N]) {
