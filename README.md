@@ -126,6 +126,7 @@
 - [Free Computer Books](https://freecomputerbooks.com/)
 - [Illustrated Guides](https://github.com/searchableguy/awesome-illustrated-guides)
 - [Tech Conferences](https://www.alltechconferences.com/)
+- [Readable Codebases](https://news.ycombinator.com/item?id=30752540)
 - [My Code Snippets](snippets.md)
 - [My Gists](https://gist.github.com/overengineer)
 - [My Github Bookmarks](https://github.com/overengineer?tab=stars)
