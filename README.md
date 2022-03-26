@@ -55,6 +55,8 @@
 
 - [Official Documentation](https://docs.docker.com/)
 - [Interactive Tutorials](https://www.katacoda.com/?q=docker)
+- [Best Practices](https://docs.docker.com/develop/dev-best-practices/)
+- [Docket Optimization Guide](https://www.augmentedmind.de/2022/02/06/optimize-docker-image-size/)
 
 ## Shell Scripting
 
