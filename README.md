@@ -97,6 +97,7 @@
 - [Introduction to systems thinking](https://lethain.com/systems-thinking/)
 - [Some career advice](https://lethain.com/career-advice/)
 - [Reflections on a decade of coding](https://scattered-thoughts.net/writing/reflections-on-a-decade-of-coding)
+- [Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 - [Why I prefer making useless stuff](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
