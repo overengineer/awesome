@@ -128,6 +128,7 @@
 
 - [Free Courses](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course)
 - [Free Computer Books](https://freecomputerbooks.com/)
+- [Free Books on Learnpub](https://leanpub.com/bookstore?type=book&sort=free_without_membership)
 - [Illustrated Guides](https://github.com/searchableguy/awesome-illustrated-guides)
 - [Tech Conferences](https://www.alltechconferences.com/)
 - [Readable Codebases](https://news.ycombinator.com/item?id=30752540)
