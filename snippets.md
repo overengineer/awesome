@@ -160,3 +160,6 @@ struct string_literal {
   char value[N];
 };
 ```
+
+### loop over typename variadic template list without recursion
+https://gcc.godbolt.org/z/h681Ee5YW
