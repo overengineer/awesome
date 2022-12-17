@@ -117,6 +117,7 @@
 - [tech.marksblogg.com](https://tech.marksblogg.com/) - Mark Litwintschik - Optimization, Go, Rust, Python, Backend, Big Data
 - [antonz.org](https://antonz.org) - Anton Zhiyanov - Python, SQLite
 - [zverok.github.io](https://zverok.github.io/blog/) - Victor Shepelev - Ruby, Python
+- [sandimetz.com](https://sandimetz.com/blog) - Sandi Metz - OOP, SOLID, Refactoring
 
 ## Content Feeds
 
