@@ -77,13 +77,14 @@
 - [MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [Exercises](https://leetcode.com/problemset/all/)
 
-## System Design
+## System Design & Software Architecture
 
 - [System Design Book](https://systemdesign.org/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Scalability](https://www.lecloud.net/tagged/scalability/chrono)
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [refactoring.guru](https://refactoring.guru/)
+- [Key Points of Working Effectively with Legacy Code](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
 
 ## Programming Conference Talks
 
